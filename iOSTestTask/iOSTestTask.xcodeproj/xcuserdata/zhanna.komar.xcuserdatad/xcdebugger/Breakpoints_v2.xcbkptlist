@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FBA95113-8684-4847-B6E4-A923B7A67EC8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A907BBDE-E44A-43A6-A781-661CFE1D3783"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSTestTask/View/TopRatedViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "fetchMovies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A907BBDE-E44A-43A6-A781-661CFE1D3783 - a1c7bf5deee06762"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTestTask.TopRatedViewController.fetchMovies(isSearch: Swift.Bool, keyword: Swift.String) -&gt; ()"
+                  moduleName = "iOSTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhanna.komar/Desktop/PetProjects/iOSTestTask/iOSTestTask/View/TopRatedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "A907BBDE-E44A-43A6-A781-661CFE1D3783 - f6ba590cd054e8f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;iOSTestTask.Movie&gt;, Swift.Error&gt;) -&gt; () in iOSTestTask.TopRatedViewController.fetchMovies(isSearch: Swift.Bool, keyword: Swift.String) -&gt; ()"
+                  moduleName = "iOSTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhanna.komar/Desktop/PetProjects/iOSTestTask/iOSTestTask/View/TopRatedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "A907BBDE-E44A-43A6-A781-661CFE1D3783 - 5d9f9fc0857c20a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTestTask.TopRatedViewController.fetchMovies() -&gt; ()"
+                  moduleName = "iOSTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhanna.komar/Desktop/PetProjects/iOSTestTask/iOSTestTask/View/TopRatedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "A907BBDE-E44A-43A6-A781-661CFE1D3783 - 7497b71d1775b25b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;iOSTestTask.Movie&gt;, Swift.Error&gt;) -&gt; () in iOSTestTask.TopRatedViewController.fetchMovies() -&gt; ()"
+                  moduleName = "iOSTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhanna.komar/Desktop/PetProjects/iOSTestTask/iOSTestTask/View/TopRatedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DD87635-B069-4D12-B4DA-FC6CF5B8F831"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSTestTask/ViewModel/MovieListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchMovies(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9DD87635-B069-4D12-B4DA-FC6CF5B8F831 - 3275334a7547b8df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in iOSTestTask.MovieListViewModel.fetchMovies(completion: (Swift.Result&lt;Swift.Array&lt;iOSTestTask.Movie&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOSTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhanna.komar/Desktop/PetProjects/iOSTestTask/iOSTestTask/ViewModel/MovieListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "9DD87635-B069-4D12-B4DA-FC6CF5B8F831 - 3275334a7547b8df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in iOSTestTask.MovieListViewModel.fetchMovies(completion: (Swift.Result&lt;Swift.Array&lt;iOSTestTask.Movie&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOSTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhanna.komar/Desktop/PetProjects/iOSTestTask/iOSTestTask/ViewModel/MovieListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC57FEBC-8690-4192-9FCE-83065E235602"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSTestTask/ViewModel/MovieListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "searchMovies(by:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3AD24BFB-8DE2-4E7A-B536-D15E18D576AC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSTestTask/ViewModel/MovieListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "searchMovies(by:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CFCBAF2-81EE-407E-9821-DF9DFCC931EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSTestTask/ViewModel/MovieListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "searchMovies(by:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9CFCBAF2-81EE-407E-9821-DF9DFCC931EC - d5cfe5126621a5b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in iOSTestTask.MovieListViewModel.searchMovies(by: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;iOSTestTask.Movie&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOSTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhanna.komar/Desktop/PetProjects/iOSTestTask/iOSTestTask/ViewModel/MovieListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "9CFCBAF2-81EE-407E-9821-DF9DFCC931EC - d5cfe5126621a5b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in iOSTestTask.MovieListViewModel.searchMovies(by: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;iOSTestTask.Movie&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOSTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhanna.komar/Desktop/PetProjects/iOSTestTask/iOSTestTask/ViewModel/MovieListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
